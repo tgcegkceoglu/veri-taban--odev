@@ -118,8 +118,6 @@ SELECT nw_product_revenue(14, '1996-07-10', '1996-12-10') as "Ürün Geliri";  -
 SELECT nw_product_revenue(65, '1996-07-10', '1999-12-10') as "Ürün Geliri";  -- beklenen sonuç: 13,319.69
 
 
--- Ödev-7: Reorder Önerisi
--- Yapamadım--
 
 
 
